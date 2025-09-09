@@ -9,6 +9,8 @@
 2. 下载模型
 
     ```bash
+    # /minimind 下载模型
+    git clone https://huggingface.co/jingyaogong/MiniMind2(此步没有必要，/model中已包含)
 
     ```
 
