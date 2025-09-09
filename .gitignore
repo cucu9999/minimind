@@ -1,3 +1,8 @@
-/model/__pycache__
-/dataset
+__pycache__/
+
+/dataset/*
+!/dataset/*.py
+
+
 /out
+/out/** */
